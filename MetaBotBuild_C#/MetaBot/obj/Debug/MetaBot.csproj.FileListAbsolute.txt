@@ -1,0 +1,29 @@
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\bin\Debug\BACA.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\bin\Debug\BACA.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\obj\Debug\MetaBot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\obj\Debug\BACA.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\BACA\obj\Debug\BACA.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\bin\Debug\MetaBot.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\bin\Debug\MetaBot.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\obj\Debug\MetaBot.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\Content_analyzer_C#\MetaBot\obj\Debug\MetaBot.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\bin\Debug\MetaBot.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\bin\Debug\MetaBot.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\obj\Debug\MetaBot.dll
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\obj\Debug\MetaBot.pdb
+C:\Users\Administrator\Documents\Content_Analyzer_Metabot\ContentAnalyzer_C#\MetaBot\obj\Debug\MetaBot.csprojResolveAssemblyReference.cache
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\bin\Debug\MetaBot.dll
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\bin\Debug\MetaBot.pdb
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\bin\Debug\RestSharp.dll
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\obj\Debug\MetaBot.csprojAssemblyReference.cache
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\obj\Debug\MetaBot.csproj.CoreCompileInputs.cache
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\obj\Debug\MetaBot.csproj.CopyComplete
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\obj\Debug\MetaBot.dll
+C:\Users\bcovey\Documents\Visual Studio 2017\Projects\content-analyzer-metabot-master\MetaBotBuild_C#\MetaBot\obj\Debug\MetaBot.pdb

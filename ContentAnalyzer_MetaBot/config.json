@@ -1,0 +1,13 @@
+{
+  "functionalID": "troyd.fid@t4306",
+  "password": "wm2KdPlk2sEXz0tOLvDAy6PJXfU6iWAS4zwcmRvR",
+  "apiKey": "NmIxNjgyMTgtYmU5Zi00YzlhLTljYmQtNmYwNGY4YTNjNjI0O21sc2JhY2E7ZGVmYXVsdA==",
+  "mainURL": "https://mls-openshift-master.mls.local:30006/ca/rest/content/v1",
+  "responseType": "\"json\"",
+  "jsonOptions": "\"ocr\",\"dc\",\"kvp\",\"sn\"",
+  "fields":[
+    "Invoice_Number",
+	  "Total_Cost"	    
+	],
+  "table":"Yes"
+}
