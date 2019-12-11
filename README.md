@@ -1,4 +1,4 @@
-# Business Automation Content Analyzer MetaBot WITH Table extraction enhancement
+# Business Automation Content Analyzer MetaBot With Table extraction enhancement (Courtesy of MagicLamp Software)
 
 This repository contains Business Automation Content Analyzer MetaBot Table extraction enhancement which can be installed into IBM Robotic Process Automation (IBM RPA) and C# project to build .dll files required to create the MetaBot.
 
