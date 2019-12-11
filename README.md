@@ -1,6 +1,6 @@
-# Business Automation Content Analyzer MetaBot
+# Business Automation Content Analyzer MetaBot WITH Table extraction enhancement
 
-This repository contains Business Automation Content Analyzer MetaBot which can be installed into IBM Robotic Process Automation (IBM RPA) and C# project to build .dll files required to create the MetaBot.
+This repository contains Business Automation Content Analyzer MetaBot Table extraction enhancement which can be installed into IBM Robotic Process Automation (IBM RPA) and C# project to build .dll files required to create the MetaBot.
 
 Content Analyzer MetaBot can be used on IBM RPA with Automation Anywhere client to extract content from electronic or image documents and return structured data that can be used downstream in the IBM RPA logic.
 
@@ -23,6 +23,6 @@ Content Analyzer MetaBot needs to be installed into Automation Anywhere client a
 2. IBM RPA https://www.ibm.com/support/knowledgecenter/en/SSMGNY_11.0.0/com.ibm.wbpm.rpa.main.doc/kc-homepage-rpa.html
 
 ## Disclaimers
-This code is sample code created by IBM Corporation. IBM grants you a nonexclusive copyright license to use this sample code example. This sample code is not part of any standard IBM product and is provided to you solely for the purpose of assisting you in the development of your applications. This example has not been thoroughly tested under all conditions. IBM, therefore cannot guarantee nor may you imply reliability, serviceability, or function of these programs. The code is provided "AS IS", without warranty of any kind. IBM shall not be liable for any damages arising out of your or any other parties use of the sample code, even if IBM has been advised of the possibility of such damages. If you do not agree with these terms, do not use the sample code.
+This code is sample code provided by MagicLamp Software (https://www.magiclampsoftware.net/). IBM grants you a nonexclusive copyright license to use this sample code example. This sample code is not part of any standard IBM product and is provided to you solely for the purpose of assisting you in the development of your applications. This example has not been thoroughly tested under all conditions. IBM, therefore cannot guarantee nor may you imply reliability, serviceability, or function of these programs. The code is provided "AS IS", without warranty of any kind. IBM shall not be liable for any damages arising out of your or any other parties use of the sample code, even if IBM has been advised of the possibility of such damages. If you do not agree with these terms, do not use the sample code.
 
 Copyright IBM Corp. 2019 All Rights Reserved.
